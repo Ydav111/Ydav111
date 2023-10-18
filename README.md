@@ -24,3 +24,5 @@
 
 
 ## Projetos:
+
+[![FINNBOT]([https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://cdn.discordapp.com/attachments/1157424319824150548/1164303758809894912/FinnBotEmoji.png?ex=6542b95f&is=6530445f&hm=ad600ef1e344198aec630b72fbc102b4697463dc9c55ef149dea61011a90e3b9&)https://cdn.discordapp.com/attachments/1157424319824150548/1164303758809894912/FinnBotEmoji.png?ex=6542b95f&is=6530445f&hm=ad600ef1e344198aec630b72fbc102b4697463dc9c55ef149dea61011a90e3b9&)](https://finnbot.website)
