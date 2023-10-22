@@ -1,4 +1,4 @@
-<h1 align="center"> Home:</h1>
+<h1 align="center">Home:</h1>
 <p align="center">Hi, my name is Davi, I'm a developer and I like to play some games!</p>
 <h1 align="center">Programming languages:</h1>
 <div align="center">
