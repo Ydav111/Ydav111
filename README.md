@@ -13,21 +13,15 @@
 
 <h1 align="center">Contacts:</h1>
 <div>
-<p>
 <a href="https://api.whatsapp.com/send/?phone=556198583264">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-</p>
-<p>
 <a href="https://discord.com/channels/@me/1127934293226835998">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-</p>
-<p>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqPrwGtDkfhfMwSbjJfsKKmRWFGckxBJgpVdmZvZgrVLFNjMPlctbvrkjqsgVhcnzpGPb">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-</p>
 </div>
 
 
