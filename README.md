@@ -4,6 +4,7 @@
 
 - 📂 My current project is [MazePlugins](https://discord.gg/JBfA9pJSUD)
 - 🌱 I am currently learning **JAVA**
+- 🧾 Look at my [portfolio](https://imdavixz.online)
 
 <br>
 <h3 align="left">Contact me:<h3>
