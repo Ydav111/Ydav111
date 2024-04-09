@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm <bold>ImDavixz<bold><h1>
-<h2 align="center">💻 I'm a full stack programmer, I'm a freelancer, I make websites, discord bots and others.<h3>
+<h2 align="center">💻 I'm a student developer, I'm a freelancer, I make websites, discord bots and others.<h3>
 <br>
 
-- 📂 My current project is [MazePlugins](https://discord.gg/JBfA9pJSUD)
-- 🌱 I am currently learning **JAVA**
+- 📂 My current project is [FinnBot](https://finnbot.website)
+- 🌱 I am currently learning **JAVASCRIPT**
 - 🧾 Look at my [portfolio](https://imdavixz.online)
 
 <br>
