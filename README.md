@@ -1,1 +1,1 @@
-![Status](https://github-readme-stats.vercel.app/api?username=ImDavixz&theme=dark&show_icons=true&hide_border=true&count_private=false) ![Status2](https://github-readme-stats.vercel.app/api/top-langs/?username=ImDavixz&size_weight=0.5&count_weight=0.5&theme=dark)
+![Status](https://github-readme-stats.vercel.app/api?username=ImDavixz&theme=dark&show_icons=true&hide_border=true&count_private=false) ![Status2](https://github-readme-stats.vercel.app/api/top-langs/?username=ImDavixz&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true)
